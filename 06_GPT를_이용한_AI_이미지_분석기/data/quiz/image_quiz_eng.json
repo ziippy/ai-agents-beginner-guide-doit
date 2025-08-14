@@ -1,0 +1,42 @@
+[
+    {
+        "no": 1,
+        "eng": "Which of the following descriptions of the image is incorrect?\n- (1) Many people are sitting at tables, working on laptops.\n- (2) A large banner on the wall of the venue reads \"DIVE 2024 IN BUSAN.\"\n- (3) All participants are wearing yellow T-shirts.\n- (4) The event is being held in an indoor space.",
+        "img": "busan_dive.jpg"
+    },
+    {
+        "no": 2,
+        "eng": "Which of the following descriptions of the image is incorrect?\n- (1) People are sitting and talking inside the café.\n- (2) There is a yellow wall behind the counter.\n- (3) Several empty tables and chairs are visible.\n- (4) Two staff members are working at the counter.",
+        "img": "local_stitch_terrarosa.jpg"
+    },
+    {
+        "no": 3,
+        "eng": "Which of the following descriptions of the image is incorrect?\n- (1) Various types of bread are displayed on the shelves.\n- (2) Each bread has a price tag in front of it.\n- (3) A clerk is arranging bread.\n- (4) An air conditioner is installed on the background wall.",
+        "img": "mangwon_bakery.jpg"
+    },
+    {
+        "no": 4,
+        "eng": "Which of the following descriptions of the image is incorrect?\n- (1) The image shows the corner of a brick building.\n- (2) The windows display the words \"PERSONAL COFFEE.\"\n- (3) There is a yellow safety sign in front of the building.\n- (4) There are plants planted on the building's roof.",
+        "img": "mangwon.jpg"
+    },
+    {
+        "no": 5,
+        "eng": "Which of the following descriptions of the image is incorrect?\n- (1) People are sitting at tables having conversations.\n- (2) The ceiling lights are on.\n- (3) The sea is visible outside the windows.\n- (4) The interior is spacious and open.",
+        "img": "seolleung_terrarosa.jpg"
+    },
+    {
+        "no": 6,
+        "eng": "Which of the following descriptions of the image is incorrect?\n- (1) Workers are working outside the building.\n- (2) There is a store name 'pomme verte' visible.\n- (3) A tree is planted beside the building.\n- (4) People are drinking coffee at the café.",
+        "img": "sangam_interior.jpg"
+    },
+    {
+        "no": 7,
+        "eng": "Which of the following descriptions of the image is incorrect?\n- (1) People are lining up to board a bus.\n- (2) The building visible in the image has a glass exterior.\n- (3) All the people waiting are wearing white clothes.\n- (4) Some people are using smartphones.",
+        "img": "stanford_coffee.jpg"
+    },
+    {
+        "no": 8,
+        "eng": "Which of the following descriptions of the image is incorrect?\n- (1) There is a yellow sculpture visible.\n- (2) The building has the words \"Local Stitch\" on it.\n- (3) There is a blue bench next to the sculpture.\n- (4) Multiple windows are visible on the building.",
+        "img": "local_stitch.jpg"
+    }
+]
